@@ -2,9 +2,9 @@
 Contributors: Nick_theGeek
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RGUXZDAKT7BDW
 Tags: genesis, genesiswp, studiopress, menu
-Requires at least: 3.0
-Tested up to: 3.3.1
-Stable tag: 1.0.1
+Requires at least: 3.3
+Tested up to: 3.5
+Stable tag: 1.1.0
 
 Genesis Menu options with custom menu, categories, pages, and primary/secondary nav extras.
 
@@ -15,6 +15,8 @@ Genesis Nav Menu Amplified restores the Genesis 1.5 menu system and extends it. 
 * Supports List Pages/Categories
 * Supports Exclude/Include by ID
 * Supports Nav Extras on Primary and Secondary Navigation
+* Supports Page Menu Widget
+* Supports Category Menu Widget
 
 This plugin requires the [Genesis Theme Framework](http://designsbynickthegeek.com/go/genesis) aff link
 
@@ -42,7 +44,13 @@ Alternately you can try the normal method for moving the menu, the plugin checks
 
 == Change Log ==
 
-1.0 (3-19-2012 : Current)
+1.1.0 (RELEASE DATE : Current)
+
+* added page menu widget
+* added category menu widget
+* added new menu class
+
+1.0.1 (3-19-2012)
 
 * menu-primary, menu, and menu-secondary classes for newer child theme compatibility
 
