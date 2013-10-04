@@ -52,7 +52,7 @@ function gnma_do_nav() {
 
             $nav = genesis_nav( array(
                         'theme_location' => 'primary',
-                        'menu_class' => genesis_get_option( 'nav_superfish' ) ? 'menu-primary menu nav superfish' : 'primary-menu menu nav',
+                        'menu_class' => genesis_get_option( 'nav_superfish' ) ? 'genesis-nav-menu menu-primary menu nav superfish' : 'genesis-nav-menu menu-primary menu nav',
                         'show_home' => genesis_get_option( 'nav_home' ),
                         'type' => genesis_get_option( 'nav_type' ),
                         'sort_column' => genesis_get_option( 'nav_pages_sort' ),
